@@ -4,7 +4,7 @@
 2. Click on "Code"
 3. Download Zip
 4. Unzip the file and follow these instructions:
-Visit chrome://extensions.
+Visit chrome://extensions
 Enable Developer mode by ticking the checkbox in the upper-right corner.
 Click on the "Load unpacked extension..." button.
 Select the directory containing your unpacked extension.
