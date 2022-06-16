@@ -1,0 +1,26 @@
+{
+    "name": "Better LOLPros",
+    "options_page": "",
+    "description": "Creates a multi-opgg from a multi-lolpros automatically with the press of a button",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+        "tabs",
+        "scripting"
+      ],
+    "host_permissions":["https://*/*"],
+    "action": {
+        "default_popup": "/popup/popup.html",
+        "default_icon": {
+          "16" : "/images/lolpros_16x16.png",
+          "48" : "/images/lolpros_48x48.png",
+          "128" : "/images/lolpros_128x128.png"
+        }
+    },
+    "icons" : {
+      "16" : "/images/lolpros_16x16.png",
+      "48" : "/images/lolpros_48x48.png",
+      "128" : "/images/lolpros_128x128.png"
+    }
+      
+}
